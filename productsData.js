@@ -28,6 +28,41 @@ const products = [
     },
 	{
         id: 4,
+        title: "30,000 Luxury Lifestyle Reels Bundle 20,000+ HD Raw Video Clips",
+        image: "https://i.etsystatic.com/62035779/r/il/2ea429/7302139410/il_794xN.7302139410_9ege.jpg",
+        description: "💼 What’s Inside 🎞️ 30,000 Luxury Lifestyle Clips Reels Bundle optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
+        originalPrice: 14.99,
+        salePrice: 4.99,
+        purchaseLink: "https://maken8n.gumroad.com/l/alpino-doll-pattern?wanted=true"
+    },
+    {
+        id: 5,
+        title: "1300+ Motivational Reels Video Bundle Content MRR PLR TikTok, Instagram, YouTube reels Digital Bundle",
+        image: "https://i.etsystatic.com/40547185/r/il/1dd67f/7262675267/il_794xN.7262675267_jsid.jpg",
+        description: "💼 What’s Inside 🎞️ 1300+ Motivational Reels Video Bundle – High-quality, reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
+        originalPrice: 14.99,
+        salePrice: 4.99,
+        purchaseLink: "https://maken8n.gumroad.com/l/baby-giraffe-pattern?wanted=true"
+    },{
+        id: 6,
+        title: "150,000 Viral Reels Bundle PLR MRR, AI Animated Content, Viral reels, TikTok, Instagram, YouTube",
+        image: "https://i.etsystatic.com/62035779/r/il/3f3daa/7216135036/il_794xN.7216135036_cp94.jpg",
+        description: "💼 What’s Inside 🎞️ 150,000+ Viral Reels – High-quality, faceless, aesthetic reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
+        originalPrice: 14.99,
+        salePrice: 4.99,
+        purchaseLink: "https://maken8n.gumroad.com/l/alpino-doll-pattern?wanted=true"
+    },
+    {
+        id: 7,
+        title: "13K+ Digital Wall Art Prints Bundle Vintage, Modern, Abstract MRR PLR",
+        image: "https://i.etsystatic.com/62035779/r/il/56cc67/7398771820/il_794xN.7398771820_oya6.jpg",
+        description: "💼 What’s Inside 🎞️ Massive 13K+ Premium Digital Wall Arts Bundle to help you build a high-converting digital shop. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
+        originalPrice: 14.99,
+        salePrice: 4.99,
+        purchaseLink: "https://maken8n.gumroad.com/l/baby-giraffe-pattern?wanted=true"
+    },
+	{
+        id: 8,
         title: "300 AI Baby Podcast Reels | Viral TikTok, Instagram, YouTube",
         image: "https://i.etsystatic.com/62529683/r/il/7177a3/7493709201/il_794xN.7493709201_4c2p.jpg",
         description: "💼 What’s Inside 🎞️ 300 Viral Reels – High-quality, faceless, aesthetic reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
@@ -35,4 +70,5 @@ const products = [
         salePrice: 4.99,
         purchaseLink: "https://maken8n.gumroad.com/l/baby-giraffe-pattern?wanted=true"
     }
+
 ];
