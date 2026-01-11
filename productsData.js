@@ -6,7 +6,7 @@ const products = [
         description: "💼 What’s Inside 🎞️ 75,000+ Viral Reels – High-quality, faceless, aesthetic reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
         originalPrice: 15.99,
         salePrice: 4.99,
-        purchaseLink: "https://maken8n.gumroad.com/l/adventure-time-cat-pattern?wanted=true"
+        purchaseLink: "https://maken8n.gumroad.com/l/75000ViralReelsBundle?wanted=true"
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ const products = [
         description: "💼 What’s Inside 🎞️ 100,000+ Viral Reels – High-quality, faceless, aesthetic reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
         originalPrice: 14.99,
         salePrice: 4.99,
-        purchaseLink: "https://maken8n.gumroad.com/l/alpino-doll-pattern?wanted=true"
+        purchaseLink: "https://maken8n.gumroad.com/l/100kViralReelsBundle?wanted=true"
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ const products = [
         description: "💼 What’s Inside 🎞️ 1450+ Viral Reels – High-quality, faceless, aesthetic reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
         originalPrice: 14.99,
         salePrice: 4.99,
-        purchaseLink: "https://maken8n.gumroad.com/l/baby-giraffe-pattern?wanted=true"
+        purchaseLink: "https://maken8n.gumroad.com/l/1450MotivationalReels?wanted=true"
     },
 	{
         id: 4,
@@ -33,7 +33,7 @@ const products = [
         description: "💼 What’s Inside 🎞️ 30,000 Luxury Lifestyle Clips Reels Bundle optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
         originalPrice: 14.99,
         salePrice: 4.99,
-        purchaseLink: "https://maken8n.gumroad.com/l/alpino-doll-pattern?wanted=true"
+        purchaseLink: "https://maken8n.gumroad.com/l/30kLuxuryLifestyleReelsBundle?wanted=true"
     },
     {
         id: 5,
@@ -42,7 +42,7 @@ const products = [
         description: "💼 What’s Inside 🎞️ 1300+ Motivational Reels Video Bundle – High-quality, reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
         originalPrice: 14.99,
         salePrice: 4.99,
-        purchaseLink: "https://maken8n.gumroad.com/l/baby-giraffe-pattern?wanted=true"
+        purchaseLink: "https://maken8n.gumroad.com/l/1300MotivationalReelsVideoBundle?wanted=true"
     },{
         id: 6,
         title: "150,000 Viral Reels Bundle PLR MRR, AI Animated Content, Viral reels, TikTok, Instagram, YouTube",
@@ -50,7 +50,7 @@ const products = [
         description: "💼 What’s Inside 🎞️ 150,000+ Viral Reels – High-quality, faceless, aesthetic reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
         originalPrice: 14.99,
         salePrice: 4.99,
-        purchaseLink: "https://maken8n.gumroad.com/l/alpino-doll-pattern?wanted=true"
+        purchaseLink: "https://maken8n.gumroad.com/l/150kViralReelsBundle?wanted=true"
     },
     {
         id: 7,
@@ -59,7 +59,7 @@ const products = [
         description: "💼 What’s Inside 🎞️ Massive 13K+ Premium Digital Wall Arts Bundle to help you build a high-converting digital shop. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
         originalPrice: 14.99,
         salePrice: 4.99,
-        purchaseLink: "https://maken8n.gumroad.com/l/baby-giraffe-pattern?wanted=true"
+        purchaseLink: "https://maken8n.gumroad.com/l/13KDigitalWallArtPrintsBundle?wanted=true"
     },
 	{
         id: 8,
@@ -68,7 +68,7 @@ const products = [
         description: "💼 What’s Inside 🎞️ 300 Viral Reels – High-quality, faceless, aesthetic reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
         originalPrice: 14.99,
         salePrice: 4.99,
-        purchaseLink: "https://maken8n.gumroad.com/l/baby-giraffe-pattern?wanted=true"
+        purchaseLink: "https://maken8n.gumroad.com/l/300AIBabyPodcastReels?wanted=true"
     }
 
 ];
