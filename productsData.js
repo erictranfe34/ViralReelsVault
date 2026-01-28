@@ -3,7 +3,7 @@ const products = [
         id: 12,
         title: "How I Make $10k+ a Month with Facebook Content Monetization",
         image: "https://public-files.gumroad.com/tzf21ht5yxpd6rl1nmpw28zs57pw",
-        description: "",
+        description: "I make $10,000+ per month with my main Facebook page — and in this ebook, I show you exactly how to do it too using Facebook’s Content Monetization Program.",
         originalPrice: 49.99,
         salePrice: 11.99,
         purchaseLink: "https://maken8n.gumroad.com/l/facebook10k?wanted=true"
@@ -108,4 +108,5 @@ const products = [
     }
 
 ];
+
 
